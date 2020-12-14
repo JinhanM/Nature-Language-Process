@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5c65b80-cc8e-4d4c-b91c-3030e919a9f8" name="tuijian">
+        <fileTransfer rootFolder="/data/sdxx/JinhanM/NLP_Playground/true fake news" accessType="SFTP" host="10.128.12.18" port="22" sshConfigId="19d28043-7400-4538-a200-339444267136" sshConfig="tuijian@10.128.12.18:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
